@@ -1,0 +1,2 @@
+FROM qwen3:14b
+SYSTEM "/no_think"
